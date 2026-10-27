@@ -1,0 +1,5 @@
+.gitignore.save
+.DS_Store
+.vscode/
+number-gen/filegenerator
+number-gen/*.bin
